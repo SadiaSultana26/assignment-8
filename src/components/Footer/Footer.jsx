@@ -11,7 +11,7 @@ const Footer = () => {
                 
                 
                 <div>
-                    <h1 className="font-bold text-[24px] mb-2">Hero.IO</h1>
+                    <h1 className=" font-bold text-[24px] mb-2">Hero.IO</h1>
                     
                 </div>
 

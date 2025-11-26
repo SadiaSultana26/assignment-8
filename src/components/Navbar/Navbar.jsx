@@ -29,7 +29,9 @@ const Navbar = ()  => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+   
+     <button className='w-[145px] h-[43px] bg-gradient-to-r from-[#632EE3]  to-[#9F62F2] text-white rounded '>Contribute</button>
+
   </div>
 </div>
     );
