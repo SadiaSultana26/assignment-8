@@ -1,0 +1,364 @@
+[
+  {
+    "image": "https://example.com/app1.png",
+    "title": "TaskMaster Pro",
+    "companyName": "NextGen Apps",
+    "id": 1,
+    "description": "A smart task management app to organize your daily life.",
+    "size": 42,
+    "reviews": 1250,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://example.com/app2.png",
+    "title": "HealthTrack",
+    "companyName": "FitLife Studio",
+    "id": 2,
+    "description": "Track steps, calories, workouts, and improve your fitness easily.",
+    "size": 55,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "image": "https://example.com/app3.png",
+    "title": "NoteFlow",
+    "companyName": "Creative Soft",
+    "id": 3,
+    "description": "A clean and simple note-taking app with cloud sync.",
+    "size": 28,
+    "reviews": 720,
+    "ratingAvg": 4.2,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 295 }
+    ]
+  },
+  {
+    "image": "https://example.com/app4.png",
+    "title": "MusicCloud",
+    "companyName": "SoundHub",
+    "id": 4,
+    "description": "Stream millions of songs with personalized playlists.",
+    "size": 60,
+    "reviews": 1500,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://example.com/app5.png",
+    "title": "PhotoSpark",
+    "companyName": "Pixel Pro",
+    "id": 5,
+    "description": "A powerful photo editor with filters and AI enhancements.",
+    "size": 75,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 940 }
+    ]
+  },
+  {
+    "image": "https://example.com/app6.png",
+    "title": "BudgetBuddy",
+    "companyName": "FinTechPro",
+    "id": 6,
+    "description": "Manage expenses, savings, and monthly budgets effectively.",
+    "size": 33,
+    "reviews": 600,
+    "ratingAvg": 4.1,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://example.com/app7.png",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "id": 7,
+    "description": "Real-time weather updates with storm alerts.",
+    "size": 38,
+    "reviews": 1100,
+    "ratingAvg": 4.3,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://example.com/app8.png",
+    "title": "LearnEasy",
+    "companyName": "EduTech Labs",
+    "id": 8,
+    "description": "Online learning app with interactive lessons.",
+    "size": 48,
+    "reviews": 900,
+    "ratingAvg": 4.5,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 400 }
+    ]
+  },
+  {
+    "image": "https://example.com/app9.png",
+    "title": "RideShare+",
+    "companyName": "MoveFast Inc",
+    "id": 9,
+    "description": "Fast and safe ride-sharing service with live tracking.",
+    "size": 82,
+    "reviews": 2300,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1230 }
+    ]
+  },
+  {
+    "image": "https://example.com/app10.png",
+    "title": "ShopSmart",
+    "companyName": "eCom Labs",
+    "id": 10,
+    "description": "Online shopping made simple with exclusive deals.",
+    "size": 70,
+    "reviews": 1950,
+    "ratingAvg": 4.4,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1040 }
+    ]
+  },
+  {
+    "image": "https://example.com/app11.png",
+    "title": "WorkoutX",
+    "companyName": "PowerFit Apps",
+    "id": 11,
+    "description": "Home workout app with guided video training.",
+    "size": 58,
+    "reviews": 800,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://example.com/app12.png",
+    "title": "ChatWave",
+    "companyName": "SocialHub",
+    "id": 12,
+    "description": "A fast messaging app with secure end-to-end encryption.",
+    "size": 45,
+    "reviews": 2700,
+    "ratingAvg": 4.2,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "image": "https://example.com/app13.png",
+    "title": "TimeZoneX",
+    "companyName": "Global Tools",
+    "id": 13,
+    "description": "Check world time zones with easy conversions.",
+    "size": 20,
+    "reviews": 350,
+    "ratingAvg": 4.0,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 95 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 110 }
+    ]
+  },
+  {
+    "image": "https://example.com/app14.png",
+    "title": "TranslateMe",
+    "companyName": "LinguaSoft",
+    "id": 14,
+    "description": "Instant text and speech translation in 30+ languages.",
+    "size": 40,
+    "reviews": 1600,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 840 }
+    ]
+  },
+  {
+    "image": "https://example.com/app15.png",
+    "title": "DriveGuard",
+    "companyName": "Secure Mobility",
+    "id": 15,
+    "description": "A safety-focused driving assistant with route alerts.",
+    "size": 67,
+    "reviews": 770,
+    "ratingAvg": 4.1,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://example.com/app16.png",
+    "title": "CalmMind",
+    "companyName": "Relax Studio",
+    "id": 16,
+    "description": "Meditation and sleep sounds for stress relief.",
+    "size": 50,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 390 },
+      { "name": "5 star", "count": 1510 }
+    ]
+  },
+  {
+    "image": "https://example.com/app17.png",
+    "title": "TravelGo",
+    "companyName": "Wander Co",
+    "id": 17,
+    "description": "Plan trips, book hotels, and explore destinations.",
+    "size": 65,
+    "reviews": 1250,
+    "ratingAvg": 4.3,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 430 },
+      { "name": "5 star", "count": 540 }
+    ]
+  },
+  {
+    "image": "https://example.com/app18.png",
+    "title": "MindMath",
+    "companyName": "Brain Boost Apps",
+    "id": 18,
+    "description": "Improve math skills with fun daily challenges.",
+    "size": 39,
+    "reviews": 500,
+    "ratingAvg": 4.2,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 205 }
+    ]
+  },
+  {
+    "image": "https://example.com/app19.png",
+    "title": "QuickScan",
+    "companyName": "DocuTech",
+    "id": 19,
+    "description": "Scan documents and convert them into PDF instantly.",
+    "size": 47,
+    "reviews": 1430,
+    "ratingAvg": 4.6,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 880 }
+    ]
+  },
+  {
+    "image": "https://example.com/app20.png",
+    "title": "FocusBoost",
+    "companyName": "Productive Labs",
+    "id": 20,
+    "description": "Improve focus with Pomodoro timers and productivity tools.",
+    "size": 26,
+    "reviews": 650,
+    "ratingAvg": 4.4,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 277 }
+    ]
+  }
+]
+
+    

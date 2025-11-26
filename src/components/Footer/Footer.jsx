@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from "../../assets/logo.png"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { faFacebook, faLinkedin, faXTwitter } from '@fortawesome/free-brands-svg-icons'
@@ -10,10 +11,11 @@ const Footer = () => {
             <div className="w-full max-w-[1440px] grid grid-flow-col mx-auto  md:grid-cols-5 gap-4 text-white">
                 
                 
-                <div>
-                    <h1 className=" font-bold text-[24px] mb-2">HERO.IO</h1>
-                    
-                </div>
+                <div className='grid grid-flow-col '>
+                    <img src={logo} alt=""  style={{ width: "40px", height: "40px" }} />
+                    <h1 className=" font-bold text-[20px] mb-2">HERO.IO</h1>
+                    </div>
+                
 
             
                 <div>
