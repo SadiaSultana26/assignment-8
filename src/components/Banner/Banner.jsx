@@ -4,7 +4,7 @@ const Banner = ()  => {
     return (
         <div className="py-20 bg-white text-center">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h1 className="text-6xl font-extrabold text-gray-900 mb-10 max-w-xl mx-auto leading-tight">We Build<br/> <span className="text-purple-600 ">Productive</span>Apps</h1>
+            <h1 className="text-6xl font-extrabold text-gray-900 mb-10 max-w-xl mx-auto leading-tight">We Build<br/> <span className="text-purple-600 ">Productive</span>  Apps</h1>
             <p className="text-xl text-gray-400 mb-10 max-w-5xl mx-auto">At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.<br/>Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
            
                 <div className="flex justify-center space-x-4 mb-20">
