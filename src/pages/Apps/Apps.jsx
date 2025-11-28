@@ -1,16 +1,33 @@
-import React, { Suspense, useEffect, useState } from "react";
-import App from "../../App";
+import React, { Suspense,  useState } from "react";
+import App from "../App/App";
 
-const Apps = ()  => {
+const Apps = ({data})  => {
     const [allApps,setAllApps ] = useState([]);
-    const appPromise = fetch('./Data.json').then(res=>res.json())
+    
     return ( 
         <div>
           <h1 className="text-3xl text-center p-2 text-black font-bold"> Trending Apps</h1>
           <p className="text-center p-4">Explore All Trending Apps on the Market developed by us</p>
           <Suspense fallback={<span>loading.....</span>}>
-             <App appPromise={appPromise}></App>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+             {
+                data.map((singleApp)=><App key={singleApp.companyName} singleApp={singleApp}></App>)
+             }
+
+             </div>
           </Suspense>
+
+       <div className="flex justify-center space-x-4 mb-20 p-4">
+                <button className="btn bg-gradient-to-r from-[#632EE3]  to-[#9F62F2] text-white rounded">Show All</button>
+
+
+
+   
+ 
+
+            </div>
+
         </div>
     );
 };

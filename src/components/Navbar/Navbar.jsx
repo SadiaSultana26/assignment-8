@@ -1,5 +1,7 @@
 import React from "react";
 import logo from "../../assets/logo.png"
+import { Link } from "react-router";
+
 
 const Navbar = ()  => {
     return (
@@ -14,21 +16,21 @@ const Navbar = ()  => {
       <ul
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Home</a></li>
-        <li><a>Apps</a></li>
-        <li><a>Installation</a></li>
+      <Link to='/'><li>Home</li></Link>
+       <Link to='/Apps'> <li><a>Apps</a></li></Link>
+       <Link to='/Installation'> <li><a>Installation</a></li></Link>
       </ul>
     </div>
-   
+       <Link to='/'>
      <img src={logo} alt=""  style={{ width: "40px", height: "40px" }} />
     <a className=" text-purple-600 font-bold text-xl">HERO.IO</a>
-    
+    </Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
-      <li><a>Apps</a></li>
-      <li><a>Installation</a></li>
+     <Link to='/'> <li><a>Home</a></li></Link>
+     <Link to='/Apps'> <li><a>Apps</a></li></Link>
+       <Link to='/Installation'> <li><a>Installation</a></li></Link>
     </ul>
   </div>
   
