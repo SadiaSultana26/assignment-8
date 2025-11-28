@@ -1,8 +1,5 @@
 import React from "react";
 
-
-
-
 const Banner = ()  => {
     return (
         <div className="py-20 bg-white text-center">
@@ -22,11 +19,13 @@ const Banner = ()  => {
   App Store
 </button>
    
-  
+ 
 
             </div>
           </div>
         </div>
+        
+        
     );
 };
 
