@@ -6,6 +6,7 @@ import { IoStarHalfSharp } from "react-icons/io5";
 import { AiOutlineLike } from "react-icons/ai";
 import { addToStoreDB, getStoredApp } from "../../Utility/addToDB";
 import toast from "react-hot-toast";
+import Rechart from "../../components/Rechart/Rechart";
 
 
 const About = ()  => {
@@ -88,6 +89,12 @@ setInstalled(true);
       </div>
       
     </div>
+
+
+     <div className="p-4">
+      <Rechart />
+    </div>
+
     <div className="flex flex-col flex-1">
         <h1 className="text-lg font-semibold">Description</h1>
 
