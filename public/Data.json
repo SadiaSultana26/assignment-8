@@ -163,8 +163,7 @@
       { "name": "5 star", "count": 10800 }
     ]
   },
-  {
-    "image": "https://example.com/app10.png",
+  {"image":"https://plus.unsplash.com/premium_photo-1719017469789-c0177df3d954?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2FtZWJveHxlbnwwfHwwfHx8MA%3D%3D",
     "title": "GameBox Arcade",
     "companyName": "PlayVerse",
     "id": 10,
@@ -182,7 +181,7 @@
     ]
   },
   {
-    "image": "https://example.com/app11.png",
+    "image": "https://images.unsplash.com/photo-1705077296278-d82dd5c8662f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VhdGhlciUyMGFwcHxlbnwwfHwwfHx8MA%3D%3D",
     "title": "WeatherLive",
     "companyName": "StormTech",
     "id": 11,
@@ -200,7 +199,7 @@
     ]
   },
   {
-    "image": "https://example.com/app12.png",
+    "image": "https://images.unsplash.com/photo-1614442042855-e17d53875286?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZGllc3xlbnwwfHwwfHx8MA%3D%3D",
     "title": "Foodiez",
     "companyName": "EatHub",
     "id": 12,
@@ -218,7 +217,7 @@
     ]
   },
   {
-    "image": "https://example.com/app13.png",
+    "image": "https://images.unsplash.com/photo-1673515336170-3bf951ddb5a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFuZ3VhZ2VidWRkeXxlbnwwfHwwfHx8MA%3D%3D",
     "title": "LanguageBuddy",
     "companyName": "LinguaTech",
     "id": 13,
@@ -236,7 +235,7 @@
     ]
   },
   {
-    "image": "https://example.com/app14.png",
+    "image": "https://plus.unsplash.com/premium_photo-1700830328177-0019f0adcba5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2VjdXJlJTIwdmF1bHR8ZW58MHx8MHx8fDA%3D",
     "title": "SecureVault",
     "companyName": "CyberGuard",
     "id": 14,
@@ -254,7 +253,7 @@
     ]
   },
   {
-    "image": "https://example.com/app15.png",
+    "image": "https://images.unsplash.com/photo-1572441562604-134ff1a7cbb6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXJiYW4lMjBtb3ZlfGVufDB8fDB8fHww",
     "title": "RideNow",
     "companyName": "UrbanMove",
     "id": 15,
@@ -272,7 +271,7 @@
     ]
   },
   {
-    "image": "https://example.com/app16.png",
+    "image": "https://media.istockphoto.com/id/1295749491/photo/black-woman-browsing-online-make-up-store.webp?a=1&b=1&s=612x612&w=0&k=20&c=14darY_YHTVCR34EdO495IdgzVeo4VkPaC8Sk6zmZDU=",
     "title": "ShopPlus",
     "companyName": "MarketWave",
     "id": 16,
@@ -290,7 +289,7 @@
     ]
   },
   {
-    "image": "https://example.com/app17.png",
+    "image": "https://media.istockphoto.com/id/2169109477/photo/mom-driving-son-to-school-in-car-for-back-to-school-season.webp?a=1&b=1&s=612x612&w=0&k=20&c=rqn0nshNAp9Rrha0NM2wMAFdORUxzd4p3w6JpupaKSU=",
     "title": "DriveSafe",
     "companyName": "AutoGuard",
     "id": 17,
@@ -307,44 +306,10 @@
       { "name": "5 star", "count": 4400 }
     ]
   },
+ 
+  
   {
-    "image": "https://example.com/app18.png",
-    "title": "CryptoVault",
-    "companyName": "BlockTech",
-    "id": 18,
-    "description": "Manage and track your cryptocurrencies securely.",
-    "size": 52,
-    "reviews": 22000,
-    "ratingAvg": 5,
-    "downloads": 9,
-    "ratings": [
-      { "name": "1 star", "count": 1600 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 3500 },
-      { "name": "4 star", "count": 6500 },
-      { "name": "5 star", "count": 8400 }
-    ]
-  },
-  {
-    "image": "https://example.com/app18.png",
-    "title": "CryptoVault",
-    "companyName": "BlockTech",
-    "id": 18,
-    "description": "Manage and track your cryptocurrencies securely.",
-    "size": 52,
-    "reviews": 22000,
-    "ratingAvg":5,
-    "downloads": 9,
-    "ratings": [
-      { "name": "1 star", "count": 1600 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 3500 },
-      { "name": "4 star", "count": 6500 },
-      { "name": "5 star", "count": 8400 }
-    ]
-  },
-  {
-    "image": "https://example.com/app18.png",
+    "image": "https://images.unsplash.com/photo-1740477959006-798042a324aa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q3J5cHRvVmF1bHR8ZW58MHx8MHx8fDA%3D",
     "title": "CryptoVault",
     "companyName": "BlockTech",
     "id": 18,
