@@ -5,17 +5,17 @@ import { Link } from "react-router";
 
 const App = ({singleApp})  => {
 
-   const {image,description,companyName,ratingAvg,downloads}=singleApp;
+   const {image,description,companyName,ratingAvg,downloads,id}=singleApp;
 
 
     return (
-        <Link to='/About'>
+        <Link to={`/about/${id}`}>
        <div className="card bg-base-100 w-96 shadow-sm p-6">
   <figure>
     <img
-    className="h-[200px]"
-      src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-      alt="Shoes" />
+    className=" w-80 h-80"
+      src={image}
+      alt="" />
   </figure>
   <div className="card-body">
     <h2 className="card-title">

@@ -7,10 +7,20 @@ import {
   } from "react-router";
 import { router } from './Routes/routes.jsx';
 
+import { Toaster } from "react-hot-toast";
+
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <RouterProvider router={router} />
-  </StrictMode>,
+    
+    <Toaster position="top-center" reverseOrder={false} />
+
+    <RouterProvider router={router} />
+  </StrictMode>
 )
+
+
+
+
+

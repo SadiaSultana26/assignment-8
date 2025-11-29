@@ -26,15 +26,18 @@ export const router = createBrowserRouter([
         Component: Home
     },
     {
-        path:'/about',
+        path:'/about/:id',
+         loader:()=>fetch('/Data.json'),
         Component:About
     },
     {
         path:'/Apps',
+        loader: () => fetch('/Data.json'),
         Component:HeroApp
     },
     {
         path:'/Installation',
+        loader: () => fetch("/Data.json"),
         Component:Installation
     }
    ]
