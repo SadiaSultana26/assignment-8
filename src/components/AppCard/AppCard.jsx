@@ -1,7 +1,10 @@
 import { IoMdStar } from "react-icons/io";
 import { FiDownload } from "react-icons/fi";
 
-const AppCard = ({ singleApp }) => {
+const AppCard = ({ singleApp, handleUninstall }) => {
+
+   
+
     return (
         <div className="border p-4 bg-white rounded flex gap-16 mb-4">
             <img src={singleApp.image}alt="" className=" w-20 h-20" />
@@ -13,7 +16,7 @@ const AppCard = ({ singleApp }) => {
             <span> {singleApp.reviews}</span>
             </div>
              </div >
-                <button  className="bg-green-600 text-white  px-8 py-0.5 rounded-lg mt-3 w-fit hover:bg-green-700 ml-auto">
+                <button  onClick={() => handleUninstall(singleApp.id)}   className="bg-green-600 text-white  px-8 py-0.5 rounded-lg mt-3 w-fit hover:bg-green-700 ml-auto">
           Uninstall
         </button>
             
